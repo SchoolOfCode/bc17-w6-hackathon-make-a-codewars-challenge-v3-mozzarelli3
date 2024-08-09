@@ -1,5 +1,5 @@
 import { test, expect } from "vitest";
-import { makeLowerCase } from "./main.js";
+import { makeLowerCase } from "./lowercase.js";
 
 
 test("Make sure answer is in lower-case", () => {
