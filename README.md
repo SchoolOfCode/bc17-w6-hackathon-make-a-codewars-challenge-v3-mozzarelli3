@@ -11,3 +11,19 @@ There are two katas here:
 
 
 I have included solutions to both katas (the bonus kata is ChatGPT generated) in ../Info/SOLUTIONS.md
+
+As there are two katas, there may be some confusion when running the tests.
+If you've successfully done the first kata, then the test should show 1 passed test file and 1 failed test file. This is correct, as the failed test file is for the second kata. Sorry for the confusion! Wasn't sure how to fix this.
+
+
+### Set up
+
+You may need to do the following to set up the repo on your device:
+
+1. Install npm using `npm install`
+2. Install vitest as dev dependency `npm install -D vitest`
+3. Create script = `"start-test": "vitest"`
+4. To run test, use `npm run start-test` in the terminal
+
+
+Good luck! 😊

@@ -32,3 +32,27 @@ The function:
 ---
 
 ## Presentation
+
+#### Hello! 
+
+Purpose - The goal of this project is to create a function, makeLowerCase, that converts any given string to lowercase. 
+
+#### Key Objectives:
+- Implement a simple and reusable JavaScript function.
+- Ensure the function handles various edge cases.
+- Validate the function with thorough testing.
+
+#### Planning Steps
+1. Define the Function: Write the function signature and include the logic to convert the string to lowercase.
+2. Write Tests: Create test cases that cover typical scenarios, including edge cases.
+3. Document the Process: Plan to document each step, from brainstorming to the final implementation, in a markdown file.   
+.
+
+#### If I had more time:
+- I would have liked to write test that handles an error, such as inputting the wrong string, etc.
+- I would have also liked to have finished the bonus Kata and not use ChatGPT to finish the last bit so others could try it.
+
+#### Reflections
+- I really enjoyed this hackathon.
+- Worked well with my teammate, Carmen, to brainstorm ideas and chat about our katas.
+- I think next time narrowing down my options and creating more realistic ideas would be good. I got carried away with creating a bigger and more complex kata that I ran out of time.
