@@ -1,3 +1,4 @@
+
 # KATA 1
 
 ```js
@@ -9,7 +10,7 @@ const result = makeLowerCase("I LOVE TACOS");
 console.log(result);
 ```
 
----
+-------------------------------------------------------
 
 # BONUS KATA
 
