@@ -7,7 +7,7 @@ There are two katas here:
 
 - Bonus Kata
     - This is a bonus kata that I started and have tried to solve but failed within the time slot. I wanted to include it here so I asked ChatGPT to fix the test in time for the presentations, so it may work or may not 😂. Try at your own risk. 
-    - It involves breaking a code. Each letter in the alphabet corresponds to a number (a = 1, b = 2, etc.). The task it to uncode a secret phrase.
+    - It involves breaking a code. Each letter in the alphabet corresponds to a number (a = 1, b = 2, etc.). The task is to uncode a secret phrase.
 
 
 I have included solutions to both katas (the bonus kata is ChatGPT generated) in ../Info/SOLUTIONS.md

@@ -3,7 +3,7 @@
 
 Here at FancyFontHQ, we pride outselves on the quality of our font. One of our interns is struggling to make the phrase "I LOVE TACOS" completely lowercase. Do you think you can help them?
 
-The task for you is to take the string above and convert it to become "i love tacos". Easy right? Give it a go under main.test.js!
+The task for you is to take the string above and convert it to become "i love tacos". Easy right? Give it a go under lowercase.test.js!
 
 ---
 ---

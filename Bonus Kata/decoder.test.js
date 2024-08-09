@@ -1,5 +1,5 @@
 import { test, expect } from "vitest";
-import { messageDecoder } from "./main.js";
+import { messageDecoder } from "./decoder.js";
 
 test("Decode the secret password", () => {
     const answer = "i love tacos";
