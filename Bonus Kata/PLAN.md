@@ -1,4 +1,6 @@
-# Breaking the Code
+This is a bonus one so I didn't get time to finish writing this plan 😊
+
+# Breaking the Code - Bonus Kata
 
 So you think you're up to the challenge? You really think that you can crack the secret password? Okay then, let's get started...
 
@@ -8,10 +10,6 @@ In order to break into the secret vault, you need the password. To get this pass
 
 We don't know what it means but that's your job! We want you, Special Agent #1 to crack that code!
 
----
-
-i love tacos
-j mpwf ubdpt
 
 
 
